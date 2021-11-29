@@ -53,3 +53,10 @@ Space complexity: is the total memory space required by the program for it's exe
               }
               -> time complexity= O(n*n)
               -> space complexity =
+              
+## Day 2
+Space complexity: amount of space required to store a program which include storing program instructions , constt values , variable values , function calling , jumping statements etc.
+# Space complexity= Auxiliary space + input size
+Auxiliary space is the temporary space allocated by the algo to solve the problem m wrt to input size.
+
+       
