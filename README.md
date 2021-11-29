@@ -21,7 +21,9 @@ Space complexity: is the total memory space required by the program for it's exe
                b=b+rand();
                }
       -> time complexity = O(N+M)
-      -> space complexity = 
+      -> space complexity = N=4bytes,i=4bytes,a=4bytes,rand=4bytes => O(1) //for N
+                            M=4bytes,j=4bytes,b=4bytes,rand=4bytes => O(1) //for M
+                            so, in total it is O(1)
       
       ## question 2:
                void func1(int array[],int length){
