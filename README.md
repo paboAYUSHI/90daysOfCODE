@@ -58,5 +58,36 @@ Space complexity: is the total memory space required by the program for it's exe
 Space complexity: amount of space required to store a program which include storing program instructions , constt values , variable values , function calling , jumping statements etc.
 # Space complexity= Auxiliary space + input size
 Auxiliary space is the temporary space allocated by the algo to solve the problem m wrt to input size.
-
-       
+      ## question 1:
+      fun add(n1,n2){
+        sum=n1+n2
+        return sum
+      }
+      explaination-> here let's suppose n1 takes 4 bytes and n2 also take 4 bytes . The variable sum takes 4 bytes too . Now as we know that space complexity is the sum of auxiliary sum and input size so let's assume that auxiliary space also takes 4 bytes , in total it is taking 16 bytes. Now here 16 bytes is an constant and we know that we drop the constant . so at last the space complexity of this is O(1).
+      
+      ##question 2:
+      fun(arr[],N){
+      sum=0
+      for(i=0 to N)
+          sum+=arr[i]
+       print(sum)
+      }
+ space complexity-> here N is the size of array so total=4N+4+4+4=O(N) 
+ time complexity->Tn=O(N)
+ 
+       ##question 3:
+       int fact=1;
+       for(int i=1;i<=n;++i){
+       fact=fact*i;
+       }
+       return fact;
+   space complexity->O(1)
+    time complexity->Tn=O(n)
+    
+      ##question 4:
+      if(n<=1)
+          return 1;
+      else
+          return (n*factorial(n-1));
+      space complexity->O(n)
+      time complexity->Tn=O(n)
