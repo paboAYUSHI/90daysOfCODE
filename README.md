@@ -97,4 +97,4 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
       
       
   ## RECURSION
-     recursion is basically when a function calls itself a number of times until unless a condition is satisfied.
+     recursion is basically when a function calls itself directly or indirectly a number of times until unless a condition is satisfied.
