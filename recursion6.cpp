@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int prime(int number , int i){
+bool prime(int number , int i){
     if(number<=2){
         return (number==2) ?true:false;
     }
