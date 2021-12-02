@@ -1,4 +1,5 @@
-
+// C++ program to count number of ways
+// to express x as sum of n-th power of unique natural numbers.
 #include <iostream>
 #include<math.h>
 using namespace std;
