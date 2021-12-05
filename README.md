@@ -106,3 +106,12 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
                  where , W = size of each element in bytes ,
                          i = subscript of the element whose address we want to find
                          LB = lower limit
+   ## Stacks 
+      stack is a linear data structure in which elements are added and deleted from one end only called top .
+      in stack when top==maxSize -1 , then it means that stack is full now and if we try to add an element in the stack then the OVERFLOW condition occurs.
+      when top==-1 , then it means that stack is empty and if we try to delete any element from the stack then a condition of UNDERFLOW will occurs .
+      always before doing any operation on stack we have to test these conditions first.
+      now we have two operations on stack .. these are PUSH and POP
+      PUSH means inserting the element into the stack (overflow)
+      POP means deleting an element from the  stack (underflow)
+      
