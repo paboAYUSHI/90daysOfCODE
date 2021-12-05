@@ -114,4 +114,6 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
       now we have two operations on stack .. these are PUSH and POP
       PUSH means inserting the element into the stack (overflow)
       POP means deleting an element from the  stack (underflow)
-      
+      Stack is an abstract data type [ADT]
+      now a question arises that what is ADT?
+     so ADT is also a data type where only behaviour is defined and not the implementation  . opposite of ADT is concrete data type [CDT]
