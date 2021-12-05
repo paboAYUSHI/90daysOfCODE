@@ -102,4 +102,7 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
   ## Arrays
      array is a linear data structure which stores items of same data type.
      here contiguos memory is allocated to the items . the elements are indexed here .
-     formula for finding out the the address of the element is = Base address + 
+     formula for finding out the the address of the element is = Base address + W * (i- LB)
+                 where , W = size of each element in bytes ,
+                         i = subscript of the element whose address we want to find
+                         LB = lower limit
