@@ -98,3 +98,8 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
       
   ## RECURSION
      recursion is basically when a function calls itself directly or indirectly a number of times until unless a condition is satisfied.
+     
+  ## Arrays
+     array is a linear data structure which stores items of same data type.
+     here contiguos memory is allocated to the items . the elements are indexed here .
+     formula for finding out the the address of the element is = Base address + 
