@@ -117,3 +117,4 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
       Stack is an abstract data type [ADT]
       now a question arises that what is ADT?
      so ADT is also a data type where only behaviour is defined and not the implementation  . opposite of ADT is concrete data type [CDT]
+     
