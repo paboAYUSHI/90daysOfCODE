@@ -120,3 +120,7 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
    ## Queues
       queue is also a linear data structure and also an ADT . here it has 2 ends unlike stack which has only 1 . its one end from where deletion takes place is called front whereas the end from where insertion or elements are added is called rear end . 
       queue have 2 operations - enqueue and dequeue
+      application of queues are-
+      * widely used as waiting lists for a single shared resource like printer, disk, CPU.
+      * used in asynchronous transfer of data
+      * used as buffers in most of the applications like MP3 media player, CD player, etc.
