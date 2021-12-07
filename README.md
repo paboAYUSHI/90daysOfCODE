@@ -127,3 +127,6 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
       * widely used as waiting lists for a single shared resource like printer, disk, CPU.
       * used in asynchronous transfer of data
       * used as buffers in most of the applications like MP3 media player, CD player, etc.
+   ## linked lists
+      memory is not stored contiguosly
+      these are divided into 2 types ... first is a pointer where the address to another linked list is stored and second is the data/info part whwre the value of that block is stored
