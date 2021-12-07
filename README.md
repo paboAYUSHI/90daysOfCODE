@@ -100,6 +100,7 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
      recursion is basically when a function calls itself directly or indirectly a number of times until unless a condition is satisfied.
   ## what is difference between recursion and back tracking
       Backtracking is when the algorithm makes an opportunistic decision.
+      Many times backtracking is not implemented recursively. If backtracking uses recursion its called Recursive Backtracking.
      
   ## Arrays
      array is a linear data structure which stores items of same data type.
