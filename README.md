@@ -130,3 +130,7 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
    ## linked lists
       memory is not stored contiguosly
       these are divided into 2 types ... first is a pointer where the address to another linked list is stored and second is the data/info part whwre the value of that block is stored
+      linked list are of 3 types
+      - singly linked list
+      - doubly linked list
+      - circular linke list
