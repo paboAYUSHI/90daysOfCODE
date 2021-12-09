@@ -139,3 +139,5 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
    -list size is limited to the memory size and doesn't need to be declared in advance.
    -Empty node can not be present in the linked list.
    -We can store values of primitive types or objects in the singly linked list
+   Doubly linked list is a complex type of linked list in which a node contains a pointer to the previous as well as the next node in the sequence. Therefore, in a doubly linked list, a node consists of three parts: node data, pointer to the next node in sequence (next pointer) , pointer to the previous node (previous pointer). 
+   The prev part of the first node and the next part of the last node will always contain null indicating end in each direction
