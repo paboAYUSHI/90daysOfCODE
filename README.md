@@ -144,3 +144,8 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
    Doubly linked list is a complex type of linked list in which a node contains a pointer to the previous as well as the next node in the sequence. Therefore, in a doubly linked list, a node consists of three parts: node data, pointer to the next node in sequence (next pointer) , pointer to the previous node (previous pointer). 
    A doubly linked list containing three nodes having numbers from 1 to 3 in their data part
    Generally, doubly linked list consumes more space for every node and therefore, causes more expansive basic operations such as insertion and deletion. However, we can easily manipulate the elements of the list since the list maintains pointers in both the directions (forward and backward).
+   operations on linked list:
+   node creation
+   deletion
+   searching
+   insertion
