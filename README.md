@@ -156,3 +156,6 @@ Circular linked list are mostly used in task maintenance in operating systems. T
 
 operation on circular doubly linked list
   insertion at the end and at the beg
+   deletion at the end 
+   searching
+   traversing
