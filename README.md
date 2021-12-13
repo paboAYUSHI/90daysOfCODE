@@ -127,6 +127,8 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
       * widely used as waiting lists for a single shared resource like printer, disk, CPU.
       * used in asynchronous transfer of data
       * used as buffers in most of the applications like MP3 media player, CD player, etc.
+      The dequeue stands for Double Ended Queue. In the queue, the insertion takes place from one end while the deletion takes place from another end. The end at which the insertion occurs is known as the rear end whereas the end at which the deletion occurs is known as front end.
+      Deque is a linear data structure in which the insertion and deletion operations are performed from both ends. We can say that deque is a generalized version of the queue
    ## linked lists
       memory is not stored contiguosly
       these are divided into 2 types ... first is a pointer where the address to another linked list is stored and second is the data/info part whwre the value of that block is stored
@@ -163,4 +165,5 @@ operation on circular doubly linked list
 
 The skip list is an extended version of the linked list. It allows the user to search, remove, and insert the element very quickly. It consists of a base list that includes a set of elements which maintains the link hierarchy of the subsequent elements.
 It is built in two layers: The lowest layer and Top layer
+  
 
