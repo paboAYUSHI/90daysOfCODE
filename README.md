@@ -127,6 +127,11 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
       * widely used as waiting lists for a single shared resource like printer, disk, CPU.
       * used in asynchronous transfer of data
       * used as buffers in most of the applications like MP3 media player, CD player, etc.
+      The storage requirement of linked representation of a queue with n elements is o(n) while the time requirement for operations is o(1).
+
+In a linked queue, each node of the queue consists of two parts i.e. data part and the link part. Each element of the queue points to its immediate next element in the memory.
+
+In the linked queue, there are two pointers maintained in the memory i.e. front pointer and rear pointer. The front pointer contains the address of the starting element of the queue while the rear pointer contains the address of the last element of the queue.
       The dequeue stands for Double Ended Queue. In the queue, the insertion takes place from one end while the deletion takes place from another end. The end at which the insertion occurs is known as the rear end whereas the end at which the deletion occurs is known as front end.
       Deque is a linear data structure in which the insertion and deletion operations are performed from both ends. We can say that deque is a generalized version of the queue
       Deque can be used both as stack and queue as it allows the insertion and deletion operations on both ends. In deque, the insertion and deletion operation can be performed from one side. The stack follows the LIFO rule in which both the insertion and deletion can be performed only from one end; therefore, we conclude that deque can be considered as a stack.
