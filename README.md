@@ -189,3 +189,9 @@ Ancestor node:- An ancestor of a node is any predecessor node on a path from the
 Descendant: The immediate successor of the given node is known as a descendant of a node. 
 properties of trees:
 Recursive data structure: The tree is also known as a recursive data structure. A tree can be defined as recursively because the distinguished node in a tree data structure is known as a root node. The root node of the tree contains a link to all the roots of its subtrees. 
+
+number of node: If there are n nodes, then there would n-1 edges. Each arrow in the structure represents the link or path. Each node, except the root node, will have atleast one incoming link known as an edge. There would be one link for the parent-child relationship.
+
+depth of node x:The depth of node x can be defined as the length of the path from the root to the node x. One edge contributes one-unit length in the path. So, the depth of node x can also be defined as the number of edges between the root node and the node x. The root node has 0 depth.
+
+height of node x:The height of node x can be defined as the longest path from the node x to the leaf node.
