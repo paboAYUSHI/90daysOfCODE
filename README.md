@@ -172,4 +172,10 @@ operation on circular doubly linked list
 The skip list is an extended version of the linked list. It allows the user to search, remove, and insert the element very quickly. It consists of a base list that includes a set of elements which maintains the link hierarchy of the subsequent elements.
 It is built in two layers: The lowest layer and Top layer
   
+  ## TREES
+     A tree is also one of the data structures that represent hierarchical data. 
+     A tree data structure is defined as a collection of objects or entities known as nodes that are linked together to represent or simulate hierarchy.
+A tree data structure is a non-linear data structure because it does not store in a sequential manner. It is a hierarchical structure as elements in a Tree are arranged in multiple levels.
+In the Tree data structure, the topmost node is known as a root node. Each node contains some data, and data can be of any type. In the above tree structure, the node contains the name of the employee, so the type of data would be a string.
+Each node contains some data and the link or reference of other nodes that can be called children.
 
