@@ -186,5 +186,6 @@ Sibling: The nodes that have the same parent are known as siblings.
 Leaf Node:- The node of the tree, which doesn't have any child node, is called a leaf node. A leaf node is the bottom-most node of the tree. There can be any number of leaf nodes present in a general tree. Leaf nodes can also be called external nodes.
 Internal nodes: A node has atleast one child node known as an internal
 Ancestor node:- An ancestor of a node is any predecessor node on a path from the root to that node. The root node doesn't have any ancestors. 
-Descendant: The immediate successor of the given node is known as a descendant of a node. In the above figure, 10 is the descendant of node 5.
-
+Descendant: The immediate successor of the given node is known as a descendant of a node. 
+properties of trees:
+Recursive data structure: The tree is also known as a recursive data structure. A tree can be defined as recursively because the distinguished node in a tree data structure is known as a root node. The root node of the tree contains a link to all the roots of its subtrees. 
