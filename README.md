@@ -204,3 +204,6 @@ Trie: It is a special kind of tree that is used to store the dictionary. It is a
 Heap: It is also a tree data structure implemented using arrays. It is used to implement priority queues.
 B-Tree and B+Tree: B-Tree and B+Tree are the tree data structures used to implement indexing in databases.
 Routing table: The tree data structure is also used to store the data in routing tables in the routers.
+
+types of tree data structure
+General tree: The general tree is one of the types of tree data structure. In the general tree, a node can have either 0 or maximum n number of nodes.
