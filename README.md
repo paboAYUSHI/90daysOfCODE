@@ -207,3 +207,6 @@ Routing table: The tree data structure is also used to store the data in routing
 
 types of tree data structure
 General tree: The general tree is one of the types of tree data structure. In the general tree, a node can have either 0 or maximum n number of nodes.
+Binary tree:  binary name itself suggests two numbers, i.e., 0 and 1.
+Binary search tree: is a non-linear data structure in which one node is connected to n number of nodes. It is a node-based data structure. A node can be represented in a binary search tree with three fields, i.e., data part, left-child, and right-child. A node can be connected to the utmost two child nodes in a binary search tree, so the node contains two pointers (left child and right child pointer).
+Every node in the left subtree must contain a value less than the value of the root node, and the value of each node in the right subtree must be bigger than the value of the root node.
