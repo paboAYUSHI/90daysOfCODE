@@ -219,3 +219,6 @@ he red-Black tree is the binary search tree. The prerequisite of the Red-Black t
    A graph can be defined as group of vertices and edges that are used to connect these vertices. A graph can be seen as a cyclic tree, where the vertices (Nodes) maintain any complex relationship among them instead of having parent child relationship.
    A graph G can be defined as an ordered set G(V, E) where V(G) represents the set of vertices and E(G) represents the set of edges which are used to connect these vertices.
     A graph can be directed or undirected. However, in an undirected graph, edges are not associated with the directions with them. 
+  A path can be defined as the sequence of nodes that are followed in order to reach some terminal node V from the initial node U.
+  A path will be called as closed path if the initial node is same as terminal node. A path will be closed path if V0=VN.
+
