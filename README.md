@@ -225,4 +225,6 @@ he red-Black tree is the binary search tree. The prerequisite of the Red-Black t
   A cycle can be defined as the path which has no repeated edges or vertices except the first and last vertices.
   A connected graph is the one in which some path exists between every two vertices (u, v) in V. There are no isolated nodes in connected graph.
   A complete graph is the one in which every node is connected with all other nodes. A complete graph contain n(n-1)/2 edges where n is the number of nodes in the graph.
+  In a weighted graph, each edge is assigned with some data such as length or weight. The weight of an edge e can be given as w(e) which must be a positive (+) value indicating the cost of traversing the edge.
+  A digraph is a directed graph in which each edge of the graph is associated with some direction and the traversing can be done only in the specified direction.
 
