@@ -228,4 +228,6 @@ he red-Black tree is the binary search tree. The prerequisite of the Red-Black t
   In a weighted graph, each edge is assigned with some data such as length or weight. The weight of an edge e can be given as w(e) which must be a positive (+) value indicating the cost of traversing the edge.
   A digraph is a directed graph in which each edge of the graph is associated with some direction and the traversing can be done only in the specified direction.
   An edge that is associated with the similar end points can be called as Loop.
+  If two nodes u and v are connected via an edge e, then the nodes u and v are called as neighbours or adjacent nodes.
+  A degree of a node is the number of edges that are connected with that node. A node with degree 0 is called as isolated node.
 
