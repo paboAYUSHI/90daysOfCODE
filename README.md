@@ -223,4 +223,4 @@ he red-Black tree is the binary search tree. The prerequisite of the Red-Black t
   A path will be called as closed path if the initial node is same as terminal node. A path will be closed path if V0=VN.
   If all the nodes of the graph are distinct with an exception V0=VN, then such path P is called as closed simple path.
   A cycle can be defined as the path which has no repeated edges or vertices except the first and last vertices.
-
+  A connected graph is the one in which some path exists between every two vertices (u, v) in V. There are no isolated nodes in connected graph.
