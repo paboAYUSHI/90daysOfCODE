@@ -227,4 +227,5 @@ he red-Black tree is the binary search tree. The prerequisite of the Red-Black t
   A complete graph is the one in which every node is connected with all other nodes. A complete graph contain n(n-1)/2 edges where n is the number of nodes in the graph.
   In a weighted graph, each edge is assigned with some data such as length or weight. The weight of an edge e can be given as w(e) which must be a positive (+) value indicating the cost of traversing the edge.
   A digraph is a directed graph in which each edge of the graph is associated with some direction and the traversing can be done only in the specified direction.
+  An edge that is associated with the similar end points can be called as Loop.
 
