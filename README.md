@@ -221,5 +221,6 @@ he red-Black tree is the binary search tree. The prerequisite of the Red-Black t
     A graph can be directed or undirected. However, in an undirected graph, edges are not associated with the directions with them. 
   A path can be defined as the sequence of nodes that are followed in order to reach some terminal node V from the initial node U.
   A path will be called as closed path if the initial node is same as terminal node. A path will be closed path if V0=VN.
-  If all the nodes of the graph are distinct with an exception V0=VN, then such path P is called as closed simple path
+  If all the nodes of the graph are distinct with an exception V0=VN, then such path P is called as closed simple path.
+  A cycle can be defined as the path which has no repeated edges or vertices except the first and last vertices.
 
