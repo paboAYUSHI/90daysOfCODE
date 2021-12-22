@@ -230,4 +230,5 @@ he red-Black tree is the binary search tree. The prerequisite of the Red-Black t
   An edge that is associated with the similar end points can be called as Loop.
   If two nodes u and v are connected via an edge e, then the nodes u and v are called as neighbours or adjacent nodes.
   A degree of a node is the number of edges that are connected with that node. A node with degree 0 is called as isolated node.
+  By Graph representation, we simply mean the technique which is to be used in order to store some graph into the computer's memory.
 
