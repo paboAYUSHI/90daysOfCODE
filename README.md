@@ -235,3 +235,4 @@ he red-Black tree is the binary search tree. The prerequisite of the Red-Black t
   An entry Mij in the adjacency matrix representation of an undirected graph G will be 1 if there exists an edge between Vi and Vj.
   There exists different adjacency matrices for the directed and undirected graph. In directed graph, an entry Aij will be 1 only when there is an edge directed from Vi to Vj.
   Representation of weighted directed graph is different. Instead of filling the entry by 1, the Non- zero entries of the adjacency matrix are represented by the weight of respective edges.
+  In the linked representation, an adjacency list is used to store the Graph into the computer's memory.
