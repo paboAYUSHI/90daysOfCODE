@@ -231,4 +231,4 @@ he red-Black tree is the binary search tree. The prerequisite of the Red-Black t
   If two nodes u and v are connected via an edge e, then the nodes u and v are called as neighbours or adjacent nodes.
   A degree of a node is the number of edges that are connected with that node. A node with degree 0 is called as isolated node.
   By Graph representation, we simply mean the technique which is to be used in order to store some graph into the computer's memory.
-
+  In sequential representation, we use adjacency matrix to store the mapping represented by vertices and edges. In adjacency matrix, the rows and columns are represented by the graph vertices. A graph having n vertices, will have a dimension n x n
