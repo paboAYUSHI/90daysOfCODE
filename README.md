@@ -240,3 +240,7 @@ he red-Black tree is the binary search tree. The prerequisite of the Red-Black t
   In a directed graph, the sum of lengths of all the adjacency lists is equal to the number of edges present in the graph.
 
 In the case of weighted directed graph, each node contains an extra field that is called the weight of the node.
+  Traversing the graph means examining all the nodes and vertices of the graph. There are two standard methods by using which, we can traverse the graphs. 
+  Breadth First Search
+  Depth First Search
+  
