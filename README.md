@@ -264,4 +264,12 @@ Step 6: EXIT
   Depth First Search= Depth first search (DFS) algorithm starts with the initial node of the graph G, and then goes to deeper and deeper until we find the goal node or the node which has no children. The algorithm, then backtracks from the dead end towards the most recent node that is yet to be completely unexplored.
 The data structure which is being used in DFS is stack.
 The process is similar to BFS algorithm. In DFS, the edges that leads to an unvisited node are called discovery edges while the edges that leads to an already visited node are called block edges.
+Step 1: SET STATUS = 1 (ready state) for each node in G
+Step 2: Push the starting node A on the stack and set its STATUS = 2 (waiting state)
+Step 3: Repeat Steps 4 and 5 until STACK is empty
+Step 4: Pop the top node N. Process it and set its STATUS = 3 (processed state)
+Step 5: Push on the stack all the neighbours of N that are in the ready state (whose STATUS = 1) and set their
+STATUS = 2 (waiting state)
+[END OF LOOP]
+Step 6: EXIT
   
