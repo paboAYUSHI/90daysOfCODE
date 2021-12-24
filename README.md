@@ -279,3 +279,7 @@ Directed graph: Directed graphs are also known as digraphs. A graph is a directe
  A spanning tree consists of (n-1) edges, where 'n' is the number of vertices (or nodes). Edges of the spanning tree may or may not have weights assigned to them. All the possible spanning trees created from the given graph G would have the same number of vertices, but the number of edges in the spanning tree would be equal to the number of vertices in the given graph minus 1.
 
 A complete undirected graph can have nn-2 number of spanning trees where n is the number of vertices in the graph. Suppose, if n = 5, the number of maximum possible spanning trees would be 55-2 = 125.
+
+   Cluster Analysis
+Civil network planning
+Computer network routing protocol
