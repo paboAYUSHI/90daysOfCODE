@@ -292,3 +292,7 @@ There can be a maximum nn-2 number of spanning trees that can be created from a 
 A spanning tree has n-1 edges, where 'n' is the number of nodes.
 If the graph is a complete graph, then the spanning tree can be constructed by removing maximum (e-n+1) edges, where 'e' is the number of edges and 'n' is the number of vertices.
   A minimum spanning tree can be defined as the spanning tree in which the sum of the weights of the edge is minimum. The weight of the spanning tree is the sum of the weights given to the edges of the spanning tree. In the real world, this weight can be considered as the distance, traffic load, congestion, or any random value.
+  The applications of the minimum spanning tree are given as follows -
+
+Minimum spanning tree can be used to design water-supply networks, telecommunication networks, and electrical grids.
+It can be used to find paths in the map.
