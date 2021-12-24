@@ -291,3 +291,4 @@ A spanning tree is maximally acyclic, so adding one edge to the tree will create
 There can be a maximum nn-2 number of spanning trees that can be created from a complete graph.
 A spanning tree has n-1 edges, where 'n' is the number of nodes.
 If the graph is a complete graph, then the spanning tree can be constructed by removing maximum (e-n+1) edges, where 'e' is the number of edges and 'n' is the number of vertices.
+  A minimum spanning tree can be defined as the spanning tree in which the sum of the weights of the edge is minimum. The weight of the spanning tree is the sum of the weights given to the edges of the spanning tree. In the real world, this weight can be considered as the distance, traffic load, congestion, or any random value.
