@@ -283,3 +283,11 @@ A complete undirected graph can have nn-2 number of spanning trees where n is th
    Cluster Analysis
 Civil network planning
 Computer network routing protocol
+
+   There can be more than one spanning tree of a connected graph G.
+A spanning tree does not have any cycles or loop.
+A spanning tree is minimally connected, so removing one edge from the tree will make the graph disconnected.
+A spanning tree is maximally acyclic, so adding one edge to the tree will create a loop.
+There can be a maximum nn-2 number of spanning trees that can be created from a complete graph.
+A spanning tree has n-1 edges, where 'n' is the number of nodes.
+If the graph is a complete graph, then the spanning tree can be constructed by removing maximum (e-n+1) edges, where 'e' is the number of edges and 'n' is the number of vertices.
