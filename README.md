@@ -272,4 +272,6 @@ Step 5: Push on the stack all the neighbours of N that are in the ready state (w
 STATUS = 2 (waiting state)
 [END OF LOOP]
 Step 6: EXIT
-  
+  Undirected graph: An undirected graph is a graph in which all the edges do not point to any particular direction, i.e., they are not unidirectional; they are bidirectional. It can also be defined as a graph with a set of V vertices and a set of E edges, each edge connecting two different vertices.
+Connected graph: A connected graph is a graph in which a path always exists from a vertex to any other vertex. A graph is connected if we can reach any vertex from any other vertex by following edges in either direction.
+Directed graph: Directed graphs are also known as digraphs. A graph is a directed graph (or digraph) if all the edges present between any vertices or nodes of the graph are directed or have a defined direction.
