@@ -109,6 +109,7 @@ Auxiliary space is the temporary space allocated by the algo to solve the proble
                  where , W = size of each element in bytes ,
                          i = subscript of the element whose address we want to find
                          LB = lower limit
+      2D array can be defined as an array of arrays. The 2D array is organized as matrices which can be represented as the collection of rows and columns.
    ## Stacks 
       stack is a linear data structure in which elements are added and deleted from one end only called top .
       in stack when top==maxSize -1 , then it means that stack is full now and if we try to add an element in the stack then the OVERFLOW condition occurs.
