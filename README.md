@@ -302,3 +302,5 @@ If the graph is a complete graph, then the spanning tree can be constructed by r
 Minimum spanning tree can be used to design water-supply networks, telecommunication networks, and electrical grids.
 It can be used to find paths in the map.
 Bubble sort works on the repeatedly swapping of adjacent elements until they are not in the intended order. It is called bubble sort because the movement of array elements is just like the movement of air bubbles in the water. Bubbles in water rise up to the surface; similarly, the array elements in bubble sort move to the end in each iteration.
+
+Sorting is the process of arranging the elements of an array so that they can be placed either in ascending or descending order. For example, consider an array A = {A1, A2, A3, A4, ?? An }, the array is called to be in ascending order if element of A are arranged like A1 > A2 > A3 > A4 > A5 > ? > An .
