@@ -315,4 +315,5 @@ It is a sorting technique based on the keys i.e. objects are collected according
 Heap Sort-
 In the heap sort, Min heap or max heap is maintained from the array elements deending upon the choice and the elements are sorted by deleting the root element of the heap.
 Insertion Sort-
+
 As the name suggests, insertion sort inserts each element of the array to its proper place. It is a very simple sort method which is used to arrange the deck of cards while playing bridge.
