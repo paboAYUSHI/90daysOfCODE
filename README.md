@@ -60,7 +60,7 @@
   Space complexity: amount of space required to store a program which include storing program instructions , constt values , variable values , function calling , jumping statements etc.
 # Space complexity= Auxiliary space + input size
   Auxiliary space is the temporary space allocated by the algo to solve the problem m wrt to input size.
-      ## question 1:
+  ## question 1:
       fun add(n1,n2){
         sum=n1+n2
         return sum
