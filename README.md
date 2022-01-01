@@ -12,7 +12,7 @@
  //  in nested loops the time complexity is n raise to the power no. of times a loop is nested....eg. if there's a nested loop and there are two loops nested then the time complexity will be n*n , if there are 3 loops nested then it would be n*n*n and so on
  
 # what is the time , space complexity of the following code:
-        ## question 1:      
+  ## question 1:      
                int a=0,b=0;
                for(i=0;i<N;i++){
                a=a+rand();
