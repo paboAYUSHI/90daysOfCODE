@@ -25,7 +25,7 @@
                             M=4bytes,j=4bytes,b=4bytes,rand=4bytes => O(1) //for M
                             so, in total it is O(1)
       
-      ## question 2:
+   ## question 2:
                void func1(int array[],int length){
                int sum=0;      //f1
                int product=1;  //f1
