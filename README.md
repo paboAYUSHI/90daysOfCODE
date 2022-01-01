@@ -43,7 +43,7 @@
               } 
            -> time complexity= O(length)=f1(constt)+f2*length+f3*length=length(f2+f3)
            -> space complexity=
-     ## question 3:
+  ## question 3:
               void func(int n){
               int sum=0;
               int product=1;
