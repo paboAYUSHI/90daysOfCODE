@@ -136,7 +136,7 @@ In the linked queue, there are two pointers maintained in the memory i.e. front 
       Deque is a linear data structure in which the insertion and deletion operations are performed from both ends. We can say that deque is a generalized version of the queue
       Deque can be used both as stack and queue as it allows the insertion and deletion operations on both ends. In deque, the insertion and deletion operation can be performed from one side. The stack follows the LIFO rule in which both the insertion and deletion can be performed only from one end; therefore, we conclude that deque can be considered as a stack.
    ## linked lists
-      memory is not stored contiguosly
+      memory is not stored contiguosly.
       these are divided into 2 types ... first is a pointer where the address to another linked list is stored and second is the data/info part whwre the value of that block is stored
       linked list are of 3 types
       - singly linked list
