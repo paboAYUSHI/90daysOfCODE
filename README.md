@@ -318,3 +318,4 @@ As the name suggests, insertion sort inserts each element of the array to its pr
 Merge Sort-
 Merge sort follows divide and conquer approach in which, the list is first divided into the sets of equal elements and then each half of the list is sorted by using merge sort. The sorted list is combined again to form an elementary sorted array.
 Quick Sort-
+Quick sort is the most optimized sort algorithms which performs sorting in O(n log n) comparisons. Like Merge sort, quick sort also work by using divide and conquer approach.
