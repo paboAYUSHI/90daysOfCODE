@@ -118,8 +118,8 @@
       PUSH means inserting the element into the stack (overflow)
       POP means deleting an element from the  stack (underflow)
       Stack is an abstract data type [ADT]
-     Ques: now a question arises that what is ADT?
-      Ans: so ADT is also a data type where only behaviour is defined and not the implementation  . opposite of ADT is concrete data type [CDT]
+  Ques: now a question arises that what is ADT?
+  Ans: so ADT is also a data type where only behaviour is defined and not the implementation  . opposite of ADT is concrete data type [CDT]
    ## Queues
       queue is also a linear data structure and also an ADT . here it has 2 ends unlike stack which has only 1 . its one end from where deletion takes place is called front whereas the end from where insertion or elements are added is called rear end . 
       queue have 2 operations - enqueue and dequeue
