@@ -76,7 +76,7 @@
       }
  space complexity-> here N is the size of array so total=4N+4+4+4=O(N) 
  time complexity->Tn=O(N)
-##question 3:
+ ##question 3:
        int fact=1;
        for(int i=1;i<=n;++i){
        fact=fact*i;
@@ -85,7 +85,7 @@
    space complexity->O(1)
     time complexity->Tn=O(n)
     
-      ##question 4:
+   ##question 4:
       if(n<=1)
           return 1;
       else
