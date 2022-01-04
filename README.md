@@ -6,10 +6,10 @@
  Time complexity: is the number of times a particular instruction set is executed rather than the total time is taken.
  Space complexity: is the total memory space required by the program for it's execution.
 # time complexity 
-  // *drop the non-dominant term(we take n as a dominant term)
- //  drop the constant(constant is a variable with which n is not involved)
-//  break the code into fragments
-//  in nested loops the time complexity is n raise to the power no. of times a loop is nested....eg. if there's a nested loop and there are two loops nested then the time complexity will be n*n , if there are 3 loops nested then it would be n*n*n and so on
+  //*drop the non-dominant term(we take n as a dominant term)
+ //drop the constant(constant is a variable with which n is not involved)
+//break the code into fragments
+//in nested loops the time complexity is n raise to the power no. of times a loop is nested....eg. if there's a nested loop and there are two loops nested then the time complexity will be n*n , if there are 3 loops nested then it would be n*n*n and so on
  
 # what is the time , space complexity of the following code:
   ## question 1:      
