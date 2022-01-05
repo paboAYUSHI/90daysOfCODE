@@ -70,7 +70,7 @@
       explaination-> 
       here let's suppose n1 takes 4 bytes and n2 also take 4 bytes . The variable sum takes 4 bytes too . Now as we know that space complexity is the sum of auxiliary sum and input size so let's assume that auxiliary space also takes 4 bytes , in total it is taking 16 bytes. Now here 16 bytes is an constant and we know that we drop the constant . so at last the space complexity of this is O(1).
   
-  ##question 2:
+ ##question 2:
       fun(arr[],N){
       sum=0
       for(i=0 to N)
