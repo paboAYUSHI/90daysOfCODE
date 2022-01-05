@@ -125,7 +125,8 @@
       Stack is an abstract data type [ADT]
   Ques:Now a question arises that what is ADT?
   Ans:So ADT is also a data type where only behaviour is defined and not the implementation  . opposite of ADT is concrete data type [CDT]
-   ## Queues
+  
+  ## Queues
       queue is also a linear data structure and also an ADT . here it has 2 ends unlike stack which has only 1 . its one end from where deletion takes place is called front whereas the end from where insertion or elements are added is called rear end . 
       queue have 2 operations - enqueue and dequeue
       application of queues are-
