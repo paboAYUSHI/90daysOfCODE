@@ -94,8 +94,7 @@
       
   ## RECURSION
      recursion is basically when a function calls itself directly or indirectly a number of times until unless a condition is satisfied.
-  
-  ## what is difference between recursion and back tracking
+## what is difference between recursion and back tracking
       Backtracking is when the algorithm makes an opportunistic decision.
       Many times backtracking is not implemented recursively. If backtracking uses recursion its called Recursive Backtracking.
      
