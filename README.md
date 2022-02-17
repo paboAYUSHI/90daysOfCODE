@@ -198,7 +198,9 @@ height of node x:The height of node x can be defined as the longest path from th
 The tree data structure can be created by creating the nodes dynamically with the help of the pointers.
 applications of trees:
 Storing naturally hierarchical data: Trees are used to store the data in the hierarchical structure. For example, the file system. The file system stored on the disc drive, the file and folder are in the form of the naturally hierarchical data and stored in the form of trees.
+
 Organize data: It is used to organize data for efficient insertion, deletion and searching. For example, a binary tree has a logN time for searching an element.
+
 Trie: It is a special kind of tree that is used to store the dictionary. It is a fast and efficient way for dynamic spell checking.
 Heap: It is also a tree data structure implemented using arrays. It is used to implement priority queues.
 B-Tree and B+Tree: B-Tree and B+Tree are the tree data structures used to implement indexing in databases.
